@@ -1,0 +1,4 @@
+﻿interface IClone
+{
+    IClone Clone();
+}
